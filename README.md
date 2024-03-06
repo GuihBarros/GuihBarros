@@ -1,4 +1,4 @@
-### Olá! Eu sou o Guilherme Barros 🖐️
+### Olá! Eu sou o Guilherme Barros
 
 <!--
 **GuihBarros/GuihBarros** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
